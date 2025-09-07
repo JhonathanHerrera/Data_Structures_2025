@@ -1,4 +1,4 @@
-from colelctions import deque
+from collections import deque
 
 class Solutions:
     def bfs_grid(self, start, target, grid):
